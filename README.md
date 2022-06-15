@@ -6,6 +6,9 @@ This repository is for showing how Git and GitHub work
 this repository will show an example of merge
 ultima modificacion
 
+## How to contribute
+please fork this repository and then issue Pull requests for review
+
 
 ## Purpose
 
