@@ -3,6 +3,9 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+this repository will show an example of merge
+ultima modificacion
+
 
 ## Purpose
 
