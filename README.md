@@ -5,7 +5,7 @@ a line for rebasing example
 
 ## Introduction
 this repository will show an example of merge
-ultima modificacion
+ultima modificacion, changes from my feature
 
 ## How to contribute
 please fork this repository and then issue Pull requests for review
